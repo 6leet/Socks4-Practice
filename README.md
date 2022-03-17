@@ -6,5 +6,5 @@ Implement both types of the SOCKS operations, namely CONNECT and BIND.
 # Requirements
 1. SOCKS 4/4A protocol
 2. Firewall
-	* Example: permit 140.113.*.*
+	* Example: permit 140.113.\*.\*
 3. CGI Proxy
